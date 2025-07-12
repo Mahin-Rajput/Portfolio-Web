@@ -133,7 +133,7 @@ function Experience(){
                 <article className="border-1 border-gray-200 rounded-[1vw] p-6 shadow-sm transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md">
                     <header className=" flex flex-col md:flex-row md:item-start md:justify-between">
                         <h1 className="font-bold text-lg">IT Intern Training at Metanoia Infotech</h1>
-                        <time className="text-gray-500 text-sm" dateTime="Jul 2024 – Present"> April 2018 – May 2019 </time>
+                        <time className="text-gray-500 text-sm" dateTime="Jul 2024 – Present"> April 2018 – May 2019</time>
                     </header>
 
                     <p className="pt-2 text-sm text-gray-700">(Intern)</p>
