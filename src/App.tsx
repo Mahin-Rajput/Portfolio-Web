@@ -1,6 +1,7 @@
 import Navbar from './components/navbar'
 import './App.css'
 import Binfo from './components/Binfo'
+import Experience from './components/Experience'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <>
      <Navbar/>
      <Binfo/>
+     <Experience/>
        
     </>
   )
