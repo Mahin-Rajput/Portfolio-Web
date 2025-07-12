@@ -1,14 +1,14 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
-import htmlLogo from '../assets/html5.svg'; // adjust the path as needed
-import jsLogo from '../assets/javascript.svg'
-import mongoLogo from '../assets/mongodb.svg'
-import nodeLogo from '../assets/nodedotjs.svg'
-import postLogo from '../assets/postgresql.svg'
-import reactLogo from '../assets/react.svg'
-import tailLogo from '../assets/tailwindcss.svg'
-import tsLogo from '../assets/typescript.svg'
+import htmlLogo from '/html5.svg'; // adjust the path as needed
+import jsLogo from '/javascript.svg'
+import mongoLogo from '/mongodb.svg'
+import nodeLogo from '/nodedotjs.svg'
+import postLogo from '/postgresql.svg'
+import reactLogo from '/react.svg'
+import tailLogo from '/tailwindcss.svg'
+import tsLogo from '/typescript.svg'
 
 
 function Binfo(){
@@ -44,7 +44,7 @@ function Binfo(){
   style={{
     WebkitAnimation: 'morph 8s ease-in-out infinite',
     animation: 'morph 8s ease-in-out infinite',
-    backgroundImage: 'url(/src/assets/1714299748434.jpeg)',
+    backgroundImage: 'url(/1714299748434.jpeg)',
     backgroundPosition: '50%',
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
