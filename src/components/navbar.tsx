@@ -1,6 +1,4 @@
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSpider } from "@fortawesome/free-solid-svg-icons";
-import { useEffect, useState } from "react";
+
 import { Typewriter } from "react-simple-typewriter";
 
 function Navbar() {
