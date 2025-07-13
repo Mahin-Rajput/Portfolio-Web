@@ -6,7 +6,7 @@ function Contact() {
   return (
     <>
       <div className="bg-white-100 w-full ">
-        <div className="flex flex-col gap-6 bg-white px-[4vw] md:px-[18vw] py-[12vw] w-full">
+        <div className="flex flex-col gap-6 bg-white px-[4vw] md:px-[18vw] py-[12vw] w-full" id="Contact">
           <h1
             className="font-bold text-[17px] text-primary"
             style={{ color: "rgb(20 126 251)" }}

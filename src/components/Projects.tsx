@@ -1,7 +1,7 @@
 function Project() {
   return (
     <>
-      <div className="min-h-screen bg-gray-50 w-full mt-[90px]">
+      <div className="min-h-screen bg-gray-50 w-full mt-[90px]" id="Projects">
         <div className="pt-[100px]">
           <h1
             className=" font-bold text-[17px] text-center text-primary"

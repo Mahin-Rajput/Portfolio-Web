@@ -41,14 +41,14 @@ function Navbar() {
                 delaySpeed={2000}
               />
             </li>
-            <li className="ml-auto">Home</li>
+            <li className="ml-auto"><a href="#">Home</a></li>
             <li>
-              <a href="">Experience</a>
+              <a href="#Experience">Experience</a>
             </li>
-            <li>Projects</li>
-            <li>Contact</li>
+            <li><a href="#Projects">Projects</a></li>
+            <li><a href="#Contact">Contact</a></li>
             <li className="-mt-1">
-              <button
+              <a href="/mahin_resume.pdf"
                 className="
                                 px-4 py-2
                                 border-2 border-[rgb(58,124,243)]
@@ -61,7 +61,7 @@ function Navbar() {
                             "
               >
                 Open CV
-              </button>
+              </a>
             </li>
           </ul>
         </nav>

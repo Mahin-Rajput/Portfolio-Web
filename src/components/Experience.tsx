@@ -1,7 +1,7 @@
 function Experience() {
   return (
     <>
-      <div className="flex flex-col ml-[60px] md:flex-row min-h-screen mt-[40px]">
+      <div className="flex flex-col ml-[60px] md:flex-row min-h-screen mt-[40px]" id="Experience">
         <div className="sticky z-50 top-10 h-screen w-[250px] md:pt-[30px] md:pl-[35px]">
           <h1 className="font-bold text-[#2d2e32] text-3xl">
             Work Experience / Education
